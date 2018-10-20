@@ -1,0 +1,36 @@
+{
+  "name": "sample-casino-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbenemerito/sample-casino-dapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbenemerito/sample-casino-dapp/issues"
+  },
+  "homepage": "https://github.com/sbenemerito/sample-casino-dapp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "json-loader": "^0.5.7",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "style-loader": "^0.23.1",
+    "truffle": "^4.1.14",
+    "webpack": "^4.21.0"
+  },
+  "dependencies": {
+    "web3": "^0.20.0"
+  }
+}
